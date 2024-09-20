@@ -25,7 +25,7 @@ Players can use the arrow keys to move the paddle left and right, and they must 
 3. **Objective:** Destroy all the bricks on the screen without letting the ball fall below the paddle.
 
 ## Demo
-[Click here to play the Bricks Destroyer Game!](https://prashantparshuramkar.host20.uk/projects/6_brick-breaker-game-main/)
+[Click here to play the Bricks Destroyer Game!](https://prashantpkp.github.io/Bricks-Destroyer-Game/)
 
 ## Installation
 
