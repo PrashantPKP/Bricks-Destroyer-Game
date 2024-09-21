@@ -42,8 +42,7 @@ Follow these steps to clone and run the game locally:
 
 3.Open the index.html file in your browser to start playing the game!
 
-
-## Technologies Used
+## Technologies Used -
 
 - **HTML5 Canvas** - For rendering the game interface.
 - **JavaScript** - To handle the game logic and controls.
