@@ -4,7 +4,7 @@
 
 **Repository:** [Bricks Destroyer Game](https://github.com/PrashantPKP/Bricks-Destroyer-Game.git)
 
-## Description
+## Description -
 
 Bricks Destroyer Game is an engaging, classic arcade-style game where the player controls a paddle to hit a ball and break bricks. The objective is to destroy all the bricks on the screen by bouncing the ball off the paddle, all while avoiding losing the ball.
 
