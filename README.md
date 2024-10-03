@@ -28,7 +28,6 @@ Players can use the arrow keys to move the paddle left and right, and they must 
 [Click here to play the Bricks Destroyer Game!](https://prashantpkp.github.io/Bricks-Destroyer-Game/)
 
 ## Installation
-
 Follow these steps to clone and run the game locally:
 
 1. Clone the repository:
@@ -48,7 +47,7 @@ Follow these steps to clone and run the game locally:
 - **JavaScript** - To handle the game logic and controls.
 - **CSS3** - For styling the game interface.
 
-## Future Improvements
+## Future Improvements -
 
 - **Multiple Levels:** Add more levels with increasing difficulty.
 - **Power-ups:** Introduce power-ups like speed boost or multi-ball mode.
