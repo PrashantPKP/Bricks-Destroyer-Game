@@ -10,7 +10,7 @@ Bricks Destroyer Game is an engaging, classic arcade-style game where the player
 
 Players can use the arrow keys to move the paddle left and right, and they must strategize to hit the ball toward the bricks and break them.
 
-## Features
+## Features -
 
 - **Simple and Fun Gameplay:** Destroy bricks by controlling the paddle and bouncing the ball.
 - **Interactive Controls:** Use the arrow keys to control the paddle movement.
