@@ -27,7 +27,7 @@ Players can use the arrow keys to move the paddle left and right, and they must 
 ## Demo
 [Click here to play the Bricks Destroyer Game!](https://prashantpkp.github.io/Bricks-Destroyer-Game/)
 
-## Installation
+## Installation -
 Follow these steps to clone and run the game locally:
 
 1. Clone the repository:
